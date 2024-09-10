@@ -1,0 +1,25 @@
+.primary_btn {
+  padding: 18px 10px;
+  background-color: black;
+  color: white;
+  min-width: 220px;
+  border-radius: 5px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.secondary_btn {
+  padding: 18px 10px;
+  border: 1px solid black;
+  color: black;
+  background-color: transparent;
+  min-width: 472px;
+  border-radius: 5px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
